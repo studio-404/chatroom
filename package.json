@@ -1,0 +1,19 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "Chat Room",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studio-404/chatroom.git"
+  },
+  "author": "Giorgi Gvazava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studio-404/chatroom/issues"
+  },
+  "homepage": "https://github.com/studio-404/chatroom#readme"
+}
